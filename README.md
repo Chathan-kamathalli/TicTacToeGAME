@@ -19,13 +19,13 @@ A simple and responsive 2-player **Tic Tac Toe** game built with **HTML**, **CSS
 ## 📸 Screenshots
 
 ### 🧩 Game Board  
-<img src="b3534f6e-0d73-40c3-aebf-1072c042eac0.png" width="500" alt="Empty Game Board" />
+![New Game](images/Newgame.png)
 
 ### 🎉 Winner Message  
-<img src="fcc3c627-ed74-499d-a0d4-8da7ebef0dca.png" width="500" alt="Winner Message Screen" />
+![Player X Win](images/PlayerX%20win.png)
 
 ### ❌ X Wins Example  
-<img src="13bc6984-97a7-4f2b-b370-11f17f5f16c8.png" width="500" alt="X Wins Display" />
+![Game Start](images/Game.png)
 
 ---
 
